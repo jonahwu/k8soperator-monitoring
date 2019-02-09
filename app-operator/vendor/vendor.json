@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "eIfuZBxwJXEoIdDVfPIBa9FvLjI=",
+			"path": "k8s.io/api/apps/v1",
+			"revision": "de494049e22a9ccf748c5bbda7492f42f344d0cd",
+			"revisionTime": "2019-02-08T17:06:07Z"
+		}
+	],
+	"rootPath": "github.com/example-inc/app-operator"
+}
