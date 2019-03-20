@@ -1,0 +1,3 @@
+[submodule "nfs-k8s"]
+	path = nfs-k8s
+	url = https://github.com/jonahwu/nfs-k8s
